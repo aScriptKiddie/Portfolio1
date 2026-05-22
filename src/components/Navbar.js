@@ -47,7 +47,7 @@ function NavBar() {
             e.currentTarget.style.transform = "scale(1)";
           }}
           >
-            [First Name].
+            [Name].
           </span>
         </Navbar.Brand>
         <Navbar.Toggle
