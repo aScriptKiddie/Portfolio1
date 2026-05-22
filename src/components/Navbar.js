@@ -47,7 +47,7 @@ function NavBar() {
             e.currentTarget.style.transform = "scale(1)";
           }}
           >
-            Bree.
+            [First Name].
           </span>
         </Navbar.Brand>
         <Navbar.Toggle
