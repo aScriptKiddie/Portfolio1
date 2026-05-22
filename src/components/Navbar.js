@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo.png";
 import { Link } from "react-router-dom";
 import {
   AiOutlineHome,
@@ -32,8 +31,24 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+        <Navbar.Brand as={Link} to="/" className="d-flex">
+          <span style={{
+            fontSize: "1.8em",
+            fontWeight: "bold",
+            color: "#c770f0",
+            transition: "transform 0.3s ease, font-size 0.3s ease",
+            display: "inline-block",
+            cursor: "pointer",
+          }}
+          onMouseEnter={e => {
+            e.currentTarget.style.transform = "scale(1.15)";
+          }}
+          onMouseLeave={e => {
+            e.currentTarget.style.transform = "scale(1)";
+          }}
+          >
+            Bree.
+          </span>
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
