@@ -4,6 +4,7 @@ Before you begin, it is highly recommended that you customize this portfolio on 
 ---
 
 🖥️ Setup Recommendation
+
 For the smoothest experience, it is recommended that you have 2 browser tabs open side-by-side while customizing the portfolio.
 
 1. Open one tab for reading these instructions.
