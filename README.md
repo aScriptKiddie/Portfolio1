@@ -147,6 +147,7 @@ Make sure:
 * Every role stays inside quotation marks `" "`
 * Every line ends with a comma `,`
 
+Once your done save the code using the instructions mentioned in Step 4.
 
 ---
 
