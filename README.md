@@ -126,11 +126,13 @@ Click the exact same editing button we mentioned in Step 1.
 
 Inside `Type.js`, look between approximately **line 10 and line 21**.
 
-You will find a list of role titles placeholders along with a commented instruction explaining what to edit.
+You will find a list of role title placeholders along with a commented instruction explaining what to edit.
+
 
 ---
 
-✨ Step 5: Adding or Removing Roles
+
+✨ Step 6: Adding or Removing Roles
 
 You can:
 
@@ -140,50 +142,14 @@ You can:
 
 Just make sure you keep the **same formatting structure** when editing the list.
 
----
-
-## ✅ Example
-
-Before:
-
-```js id="h05yls"
-"SOC Analyst",
-"Security Analyst",
-"Help Desk",
-```
-
-After:
-
-```js id="jlwmh0"
-"Cloud Engineer",
-"Penetration Tester",
-"Cybersecurity Student",
-"Freelancer",
-```
-
----
-
-## ⚠️ Important
-
 Make sure:
 
 * Every role stays inside quotation marks `" "`
 * Every line ends with a comma `,`
-* You do not accidentally delete brackets or symbols around the list
 
-If the format changes too much, the typing animation may stop working correctly.
 
 ---
 
-# 🌟 Make It Yours
 
-This section is one of the first things visitors will notice, so try to choose roles that best represent:
-
-* What you currently do
-* What you’re learning
-* What you want to become
-* Or what kind of opportunities you’re looking for
-
-Your portfolio should tell *your story*, so don’t be afraid to personalize it.
 
 
