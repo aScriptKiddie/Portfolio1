@@ -27,7 +27,7 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         <div style={{ textAlign: "center" }}>
-          
+          <a
             href={props.writeupLink}
             target="_blank"
             rel="noreferrer"
