@@ -101,4 +101,89 @@ You should see some changes on the portfolio.
 ---
 
 
+✨ Step 5: Customizing Your Roles / Career Titles
+
+Now we want to make visitors understand **what roles you can perform** or what roles you are currently seeking.
+
+This could be roles such as:
+
+* Help Desk
+* SOC Analyst
+* Security Analyst
+* Web Developer
+* Cloud Engineer
+* Network Engineer
+
+or anything else that matches your skills and goals.
+
+We’re going to do the exact same thing we did before, but this time open this file:
+
+      src/components/Home/Type.js
+
+Yes, the file is called **Type.js**. This file controls the animated typing effect shown on the Home Page.
+
+Click the exact same editing button we mentioned in Step 1.
+
+Inside `Type.js`, look between approximately **line 10 and line 21**.
+
+You will find a list of role titles placeholders along with a commented instruction explaining what to edit.
+
+---
+
+✨ Step 5: Adding or Removing Roles
+
+You can:
+
+* Add as many roles as you want
+* Remove any roles you don’t want
+* Reorder them however you like
+
+Just make sure you keep the **same formatting structure** when editing the list.
+
+---
+
+## ✅ Example
+
+Before:
+
+```js id="h05yls"
+"SOC Analyst",
+"Security Analyst",
+"Help Desk",
+```
+
+After:
+
+```js id="jlwmh0"
+"Cloud Engineer",
+"Penetration Tester",
+"Cybersecurity Student",
+"Freelancer",
+```
+
+---
+
+## ⚠️ Important
+
+Make sure:
+
+* Every role stays inside quotation marks `" "`
+* Every line ends with a comma `,`
+* You do not accidentally delete brackets or symbols around the list
+
+If the format changes too much, the typing animation may stop working correctly.
+
+---
+
+# 🌟 Make It Yours
+
+This section is one of the first things visitors will notice, so try to choose roles that best represent:
+
+* What you currently do
+* What you’re learning
+* What you want to become
+* Or what kind of opportunities you’re looking for
+
+Your portfolio should tell *your story*, so don’t be afraid to personalize it.
+
 
