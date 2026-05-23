@@ -21,7 +21,7 @@ function Projects() {
               imgPath=""
               isBlog={false}
               title="Thinking Like A Hacker"
-              description="A demonstration of how hackers find open doors in a network before the bad guys do. This project shows the tools and steps used to safely test a system's weak points, helping organisations fix problems before they become breaches."
+              description="A demonstration of how ethical hackers find open doors in a network before the bad guys do. This project shows the tools and steps used to safely test a system's weak points, helping organisations fix problems before they become breaches."
               writeupLink="/Assets/Project-Writeups/redteam1.html"
             />
           </Col>
