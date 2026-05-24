@@ -13,6 +13,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
+
+                
+              {/* EDIT THIS PART:
+               For you to write a good section please read the placeholder on the portfolio and follow this formats.
+               1. Type whatever you want to add, but maintain the same indentation.
+               2. If you want to create a space between 2 paragraphs, use two <br /><br /> back-to-back the're examples below.
+               3. If you want to put more emphasis on a word and make it purple use <b className="purple"> Word your emphasizing </b>. 
+               4. If you want to put italics on a word use <i> Word you want to italics </i>. 
+               */}
+
+
               In this section, please give a brief explanation of who you are. 
               We want to get to know the real you, your background, and what drives your passion. 
               Tell the reader what your proficient in for example.
@@ -44,6 +55,12 @@ function Home2() {
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
               </i>
+
+
+
+              {/* EDIT THIS PART:
+                Don't change any code underneath this line. */}
+                
             </p>
           </Col>
           <Col md={4} className="myAvtar">
