@@ -336,7 +336,7 @@ at the beginning of every URL.
 
 Once you’ve finished editing your social media links, stay inside the **same Footer.js file** and scroll down to **line 68**.
 
-You will some instructions. Update Your Location
+You will see some instructions. Update Your Location
 
 Replace:
 
