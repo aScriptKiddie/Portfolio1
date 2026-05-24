@@ -356,6 +356,83 @@ By now, you should notice some massive changes and the portfolio should start fe
 ---
 
 
+## 📂 Projects Page Customization
 
+✨ Step 1: Customizing Your Projects Text
+
+Now we’re moving onto the **Projects Section** of the portfolio. Don’t worry, we’ve already completed around **80% of the customization** 🎉
+
+This section is where visitors can explore your projects, labs, write-ups, tools, and anything else you want to showcase.
+
+Each individual project card contains text that helps visitors understand:
+
+* The project title
+* What the project does
+* And why the project matters
+
+Open the Projects.js File. Located here:
+
+      src/components/Projects/Projects.js
+
+Yes, the file is called **Projects.js**. This file controls all of the project cards displayed in the Projects section of your portfolio.
+
+
+Inside `Projects.js`, you will find instructions on **line 19**:
+
+Each project card contains:
+
+* A title
+* A description
+* A write-up link
+* * An image pathway
+
+To customize your projects, simply change the text inside the:
+
+      title=
+
+and
+
+      description=
+
+
+Each project card also contains a:
+
+      writeuplink=
+
+This link should redirect visitors to your project write-up. Your project write-ups are located here:
+
+      src/components/Projects/Writeups
+
+Make sure each project card links to the correct write-up file.
+
+To add or replace the image on the project card.
+?????????????????????????????????????????????
+
+
+If you want to add additional projects to your portfolio, you can duplicate an existing project card.
+
+Simply copy all code between:
+
+      <Col md={4} className="project-card">
+      </Col>
+
+Then paste it underneath another project card.
+
+After that, just replace the:
+
+* Title
+* Description
+* Image
+* And write-up link
+
+with your new project information.
+
+When copying project cards:
+
+* Make sure you copy the entire block.
+* Keep the same formatting and indentation.
+* Avoid deleting brackets or symbols accidentally.
+
+Small formatting mistakes can stop the Projects section from rendering correctly.
 
 
