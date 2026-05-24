@@ -49,7 +49,7 @@ function NavBar() {
           >
 
             {/* EDIT THIS PART:
-             Change the [Name] blew this to your brand name. This will be the logo of your portfolio */}
+             Change the [Name] below this to your brand name. This will be the logo of your portfolio */}
 
             [Name].
           </span>
