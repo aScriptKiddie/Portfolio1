@@ -74,7 +74,7 @@ Once you have the `Home.js`file open, click this editing icon on the screen,
 
 ✨ Step 2: Customizing the Greeting Wave
 
-Inside `Home.js`, you will see a commented instruction between **line 19** and **line 28**.
+Inside `Home.js`, you will see a commented instruction between **line 19** and **line 21**.
 
 It will ask you to choose a skin tone for the waving hand emoji.
 
@@ -92,7 +92,7 @@ If multiple emojis are chosen, the code may not work correctly. Stay on the same
 
 ✨ Step 3: Changing Your Name
 
-Next, look for another commented instruction in the same `Home.js` file between **line 34** and **line 40**.
+Next, look for another commented instruction in the same `Home.js` file between **line 31** and **line 32**.
 
 You will see something like this on the Home Page:
 
