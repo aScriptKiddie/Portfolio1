@@ -288,7 +288,7 @@ Now locate and open this file:
 
 Inside the file, look at **line 4**.
 
-You will see some instructions that you will see something similar to this:
+You will see some instructions and something that looks like:
 
       import myImg from "../../Assets/avatar.png";
 
