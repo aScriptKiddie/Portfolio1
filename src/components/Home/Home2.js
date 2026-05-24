@@ -22,7 +22,7 @@ function Home2() {
               {/* EDIT THIS PART:
                For you to write a good section please read the placeholder on the portfolio and follow this formats.
                1. Type whatever you want to add, but maintain the same indentation.
-               2. If you want to create a space between 2 paragraphs, use two <br /><br /> back-to-back the're examples below.
+               2. If you want to create a space between 2 paragraphs, use two <br /><br /> back-to-back they're examples below.
                3. If you want to put more emphasis on a word and make it purple use <b className="purple"> Word your emphasizing </b>. 
                4. If you want to put italics on a word use <i> Word you want to italics </i>. 
                */}
