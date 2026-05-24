@@ -238,7 +238,7 @@ You will see instructions in the code to assist you with writing this section.
 
 ⚠️ Important
 
-      Please do **not** modify or delete any code underneath approximately **line 
+      Please do **not** modify or delete any code underneath **line 
       61** unless you understand what the code is doing.
 
 
