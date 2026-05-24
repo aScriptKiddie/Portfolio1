@@ -451,3 +451,8 @@ When copying project cards:
 Small formatting mistakes can stop the Projects section from rendering correctly.
 
 
+# 📂 Projects Page Customization
+
+
+
+
