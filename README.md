@@ -4,7 +4,7 @@ Before you begin, it is highly recommended that you customize this portfolio on 
 ---
 
 
-🖥️ Setup Recommendation
+## 🖥️ Setup Recommendation
 
 For the smoothest experience, it is recommended that you have 2 browser tabs open side-by-side while customizing the portfolio.
 
@@ -54,7 +54,7 @@ This portfolio was built to be easy to personalize, even if you’re a beginner.
 
 ---
 
-🏠 Home Page Customization
+## 🏠 Home Page Customization
 
 ✨ Step 1: Open the Correct File
 
@@ -213,30 +213,30 @@ Inside `Home2.js`, go to **line 18**.
 
 You will see instructions in the code to assist you with writing this section.
 
-# 📌 Important Formatting Rules
+📌 Important Formatting Rules
 
-## ✅ Keep The Same Indentation
+✅ Keep The Same Indentation
 
       When editing the text, try to maintain the same spacing and structure already 
       used in the file.
 
-## ✅ Creating Paragraph Spaces
+✅ Creating Paragraph Spaces
 
       If you want to separate paragraphs, use:
       <br />
       <br />
 
-## ✅ Making Words Purple
+✅ Making Words Purple
 
       To emphasize a word and make it purple, use:
       <b className="purple"> Your Word </b>
 
-## ✅ Adding Italics
+✅ Adding Italics
 
       To italicize a word, use:
       <i>Your Word</i>
 
-## ⚠️ Important
+⚠️ Important
 
       Please do **not** modify or delete any code underneath approximately **line 
       61** unless you understand what the code is doing.
