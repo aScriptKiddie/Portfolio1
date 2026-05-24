@@ -384,7 +384,7 @@ Each project card contains:
 * A title
 * A description
 * A write-up link
-* * An image pathway
+* An image pathway
 
 To customize your projects, simply change the text inside the:
 
@@ -403,11 +403,26 @@ This link should redirect visitors to your project write-up. Your project write-
 
       src/components/Projects/Writeups
 
-Make sure each project card links to the correct write-up file.
+I'll go into more depth about this as you continue reading.
 
 To add or replace the image on the project card.
-?????????????????????????????????????????????
+Locate this folder:
 
+      src/Assets/ProjectImages
+
+Upload and save whatever image you want on the projects main page using the uploading instructions on Step 8 of the Home Page Customization. 
+
+Once your image has uploaded head back to:
+
+      src/components/Projects/Projects.js
+
+and only change the 
+
+      placeholder1.jpeg 
+
+with the name of your new image. Do not change the rest of the code:
+
+      imgPath={require("../../Assets/ProjectImages/
 
 If you want to add additional projects to your portfolio, you can duplicate an existing project card.
 
