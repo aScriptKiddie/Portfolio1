@@ -22,7 +22,7 @@ function Projects() {
           If you want to add more projects on your portfolio copy and paste all code between an individual 
           <Col md={4} className="project-card"> Code </Col>*/}
 
-          // PROJECT 1
+          {/* PROJECT 1 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder1.jpeg")}
@@ -32,7 +32,7 @@ function Projects() {
             />
           </Col>
 
-          // PROJECT 2
+          {/* PROJECT 2 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder2.jpeg")}
@@ -42,7 +42,7 @@ function Projects() {
             />
           </Col>
 
-          // PROJECT 3
+          {/* PROJECT 3 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder3.jpeg")}
@@ -52,7 +52,7 @@ function Projects() {
             />
           </Col>
 
-          // PROJECT 4
+          {/* PROJECT 4 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder4.jpeg")}
@@ -62,7 +62,7 @@ function Projects() {
             />
           </Col>
 
-          // PROJECT 5
+          {/* PROJECT 5 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder5.jpeg")}
@@ -72,7 +72,7 @@ function Projects() {
             />
           </Col>
 
-          // PROJECT 6
+          {/* PROJECT 6 */}
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={require("../../Assets/ProjectImages/placeholder6.jpeg")}
