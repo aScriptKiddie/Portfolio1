@@ -370,7 +370,8 @@ Locate this folder:
 
 This folder contains all of the individual project write-up pages used throughout your portfolio. Whenever you've completed a project's write-up store the code inside here in `.js` format.
 
-⚠️ Important
+⚠️ Important:
+
 You can use the already existing `.js` files as a template and only change the code between **line 19** that says:
 
       /* ===================== EDIT BETWEEN THIS LINES SECTIONS ===================== */
