@@ -16,7 +16,7 @@ function Projects() {
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
-          {/* EDIT THIS PART:
+          {/* EDIT THIS PART: ALL THIS APPLYS TO THE CODE BELOW THIS INSTRUCTIONS
             1. To edit the words shown on the project cards, change the text inside the title and description sections.
             2. To change the main image on a project card, upload your image to:
             
